@@ -1,0 +1,6 @@
+displayName = Lock Hotbar Scroll Wheel
+hideCode = true
+hideResources = true
+includeSource = false
+author = NuffSHQ
+version = 1.0

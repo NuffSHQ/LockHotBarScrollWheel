@@ -1,0 +1,14 @@
+# Ignore dependency and build folders
+node_modules/
+bin/
+obj/
+dist/
+/ExampleMod
+/TestMod
+/tModLoader.targets
+/ModAssemblies
+
+# Ignore environment variables and VS Code configs
+.env
+.vscode/
+.dll
