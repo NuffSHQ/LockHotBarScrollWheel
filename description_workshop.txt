@@ -2,4 +2,4 @@
 
 A mod that disables scrolling on the hotbar with your mouse wheel. Adds a toggle that can enable or disable the hotbar scrolling or can be bind through a hotkey. 
 Through the config you can enbable/disable if the locking works during normal play, events, boss battles. 
-Should at least work with vanilla bosses/events however it may not work properly if mods added in events/bosses in a non-conventional way, if so you can list it inside the discussion.
+Should at least work with vanilla bosses/events however it may not work properly if mods add or tweak events/bosses in a non-conventional way, if so you can list it inside the discussion.
