@@ -2,6 +2,8 @@ BuilderToggles: {
 	ScrollWheelLockUI: {
 		UnlockedText: Hotbar Scroll Wheel: [c/00FF00:Unlocked]
 		LockedText: Hotbar Scroll Wheel: [c/FF0000:Locked]
+		UnlockedCombatText: Unlocked
+		LockedCombatText: Locked
 	}
 }
 
@@ -10,18 +12,18 @@ Configs: {
 		DisplayName: Config
 
 		LockDuringNonBossEvents: {
-			Label: Lock is affected during non-bosses and non-events.
-			Tooltip: If enabled, the hotbar scroll wheel lock will be active during non-bosses and non-events.
+			Label: Lock is affected during normal play
+			Tooltip: If enabled, the hotbar scroll wheel lock will be active during non-bosses and non-events
 		}
 
 		LockDuringEvents: {
-			Label: Lock is affected during events.
-			Tooltip: If enabled, the hotbar scroll wheel lock will be active during events.
+			Label: Lock is affected during events
+			Tooltip: If enabled, the hotbar scroll wheel lock will be active during events
 		}
 
 		LockDuringBossBattles: {
-			Label: Lock is affected during boss battles.
-			Tooltip: If enabled, the hotbar scroll wheel lock will be active during boss battles.
+			Label: Lock is affected during boss battles
+			Tooltip: If enabled, the hotbar scroll wheel lock will be active during boss battles
 		}
 	}
 }
