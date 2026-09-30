@@ -1,6 +1,12 @@
 displayName = Lock Hotbar Scroll Wheel
-hideCode = true
-hideResources = true
-includeSource = false
+name = LockHotBarScrollWheel
 author = NuffSHQ
-version = 1.0.1
+version = 1.1.0
+side = Both
+homepage = https://github.com/NuffSHQ/LockHotBarScrollWheel
+buildIgnore = *.csproj, *.user, obj/**, bin/**, .vs/**, Old/**
+
+# Security & compilation packaging settings
+hideCode = false
+hideResources = false
+includeSource = true
